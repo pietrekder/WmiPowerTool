@@ -28,6 +28,7 @@ _ReSharper*/
 [Gg]eneratedFiles*/
 [Ww]in32*/
 [Tt]est[Rr]esult*
+ipch*/
 *.sdf
 *.opensdf
 *.vcxproj.filters
