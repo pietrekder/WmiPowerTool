@@ -25,4 +25,9 @@ Thumbs.db
 obj/
 [Rr]elease*/
 _ReSharper*/
+[Gg]eneratedFiles*/
+[Ww]in32*/
 [Tt]est[Rr]esult*
+*.sdf
+*.opensdf
+*.vcxproj.filters
